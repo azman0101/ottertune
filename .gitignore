@@ -10,6 +10,8 @@ __pycache__/
 *.o
 *.so
 
+.vscode
+
 # OS generated files #
 ######################
 .DS_Store
